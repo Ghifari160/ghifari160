@@ -1,5 +1,3 @@
-# Variety Streamer, Moderator, Twitch Affiliate, Computer Science Major
-
 ## About Me
 
 Hi! I'm Ghifari ([he/him](https://pronoun.is/he/him))! I'm a variety streamer, moderator, and
