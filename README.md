@@ -1,8 +1,10 @@
 ## About Me
 
 Hi! I'm Ghifari ([he/him](https://pronoun.is/he/him))! I'm a variety streamer, moderator, and
-computer science major. I'm also a [Twitch Affiliate](https://affiliate.twitch.tv/). As a variety
-streamer, I focus on story-driven and sandbox games. Space sims are my guilty pleasure.
+computer science major. I'm also a [Twitch Affiliate](https://affiliate.twitch.tv/). I love playing
+story-driven games and sandbox games. Space sims are my guilty pleasure.
+
+I'm also a member of the a Cappella group at my university (bass/baritone).
 
 I've been coding for as long as I remember. The [portfolio](#portfolio) section bellow lists a few
 of my projects.
@@ -32,11 +34,13 @@ Twitter, or Instagram.
 [Email](mailto:ghifari@ghifari160.com) |
 [Twitch](https://twitch.tv/ghifari160) |
 [Twitter](https://twitter.com/ghifari160) |
+[GitHub](https://github.com/ghifari160) |
 [Instagram](https://www.instagram.com/ghifari160) |
 [Keybase](https://keybase.io/Ghifari160/)
 
 **Important:** While I have presence in _almost_ every social platform, only DMs for the accounts
-listed above are checked on a _semi-regular_ basis.
+listed above are checked on a _semi-regular_ basis. More links over on my
+[Flowpage](https://flow.page/ghifari160).
 
 ### PGP Key
 
