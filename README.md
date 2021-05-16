@@ -1,13 +1,14 @@
 ## About Me
 
-Hi! I'm Ghifari ([he/him](https://pronoun.is/he/him))! I'm a variety streamer, moderator, and
-computer science major. I'm also a [Twitch Affiliate](https://affiliate.twitch.tv/). I love playing
-story-driven games and sandbox games. Space sims are my guilty pleasure.
+Hi!
+I'm Ghifari ([he/him](https://pronoun.is/he/him))!
 
-I'm also a member of the a Cappella group at my university (bass/baritone).
+I love playing story-driven games and sandbox games.
+Space sims are my guilty pleasure.
 
-I've been coding for as long as I remember. The [portfolio](#portfolio) section bellow lists a few
-of my projects.
+I've been coding for as long as I remember.
+I enjoy coding tools that will help me build more tools.
+The [portfolio](#portfolio) section bellow lists a few of my projects.
 
 I can code in a growing number of languages:
 
@@ -20,27 +21,18 @@ I can code in a growing number of languages:
 - Lua
 - _and more_
 
+I'm open to learning other languages.
+I'm currently learning Go.
+
 ## Resume
 
-For privacy reasons, I don't link my resume publicly. Please [contact me](#contact) instead.
+For privacy reasons, I don't link my resume publicly.
+Please [contact me](#contact) instead.
 
 ## Contact
 
-The best way to contact me is probably through email. That said, you can send me a DM on Twitch,
-Twitter, or Instagram.
-
-### Socials
-
-[Email](mailto:ghifari@ghifari160.com) |
-[Twitch](https://twitch.tv/ghifari160) |
-[Twitter](https://twitter.com/ghifari160) |
-[GitHub](https://github.com/ghifari160) |
-[Instagram](https://www.instagram.com/ghifari160) |
-[Keybase](https://keybase.io/Ghifari160/)
-
-**Important:** While I have presence in _almost_ every social platform, only DMs for the accounts
-listed above are checked on a _semi-regular_ basis. More links over on my
-[Flowpage](https://flow.page/ghifari160).
+The best way to contact me is probably through [email](mailto:ghifari@ghifari160.com).
+Potential employers should contact me through the email I listed on my application.
 
 ### PGP Key
 
