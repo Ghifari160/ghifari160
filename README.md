@@ -3,14 +3,16 @@
 Hi!
 I'm Ghifari ([he/him](https://pronoun.is/he/him))!
 
+I've been coding for as long as I remember.
+In my free time, I enjoy coding tools that will help me build more tools.
+In other words, _I code stuff so that I can easily code more stuff._
+The [portfolio](#portfolio) section below lists a few of my projects.
+
+When I'm not coding or reading, I like to play video games with friends.
 I love playing story-driven games and sandbox games.
 Space sims are my guilty pleasure.
 
-I've been coding for as long as I remember.
-I enjoy coding tools that will help me build more tools.
-The [portfolio](#portfolio) section bellow lists a few of my projects.
-
-I can code in a growing number of languages:
+I can code in a growing number of languages including the ones listed below:
 
 - C#
 - C
@@ -19,10 +21,12 @@ I can code in a growing number of languages:
 - Java
 - JavaScript
 - Lua
-- _and more_
 
-I'm open to learning other languages.
+I actively strive to learn other languages.
 I'm currently learning Go.
+
+I learn best through projects.
+I will work on a new project with a different language than what I'm familiar with just to learn.
 
 ## Resume
 
