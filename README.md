@@ -17,13 +17,13 @@ I can code in a growing number of languages including the ones listed below:
 - C#
 - C
 - C++
+- Go
 - PHP
 - Java
 - JavaScript
 - Lua
 
 I actively strive to learn other languages.
-I'm currently learning Go.
 
 I learn best through projects.
 I will work on a new project with a different language than what I'm familiar with just to learn.
