@@ -1,28 +1,21 @@
-## About Me
+<!-- markdownlint-disable MD059 -->
 
-Hi!
-I'm Ghifari (he/him)!
+# Hi, I'm Ghi
 
 I've been coding for as long as I remember.
 In my free time, I enjoy coding tools that will help me build more tools.
 In other words, _I code stuff so that I can easily code more stuff._
 
-When I'm not coding or reading, I like to play video games with friends.
-I love playing story-driven games and sandbox games.
-Space sims are my guilty pleasure.
+## Things I like to do
 
-I can code in a growing number of languages including the ones listed below:
+Code, game, produce content, repeat.
 
-- C#
-- C
-- C++
-- Go
-- PHP
-- Java
-- JavaScript
-- Lua
+## Skills
 
-I actively strive to learn other languages.
+tl;dr: Go, TypeScript/JavaScript, Java, Linux, and containers.
+In-depth list [here](skills.md).
 
-I learn best through projects.
-I will work on a new project with a different language than what I'm familiar with just to learn.
+## Projects
+
+See [pinned projects](https://github.com/ghifari160) below.
+Feel free to also look at my [repositories](https://github.com/ghifari160?tab=repositories).
